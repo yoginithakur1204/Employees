@@ -1,0 +1,13 @@
+info: Creating Employee started {"timestamp":"2023-09-08T06:43:23.052Z"}
+info: Creating Employee completed {"timestamp":"2023-09-08T06:43:42.296Z"}
+info: Creating Employee started {"timestamp":"2023-09-08T06:44:21.342Z"}
+info: Creating Employee completed {"timestamp":"2023-09-08T06:44:32.473Z"}
+info: Creating Employee started {"timestamp":"2023-09-08T06:45:24.384Z"}
+info: Creating Employee completed {"timestamp":"2023-09-08T06:45:32.886Z"}
+info: Creating Employee started {"timestamp":"2023-09-08T06:46:57.771Z"}
+info: Creating Employee completed {"timestamp":"2023-09-08T06:47:06.685Z"}
+error: Invalid or missing parameters {"timestamp":"2023-09-08T06:53:38.138Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T06:58:29.107Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T07:10:38.374Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T07:21:00.712Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mInvalid or missing parameters\u001b[39m","timestamp":"2023-09-08T07:53:58.951Z"}

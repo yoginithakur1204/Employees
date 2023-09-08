@@ -1,4 +1,7 @@
 import express, { json } from 'express';
+
+import logger from "../logger_file/logger";
+
 // import getAllEmployees from '../routers/employee_data'
 // import getEmployeeById from '../routers/employee_data'
 // import createEmployee from '../routers/employee_data'
@@ -34,7 +37,8 @@ db.sequelize
 
 .then(() => {
 
-console.log("DB Connection Established Successfully!");
+// console.log("DB Connection Established Successfully!");
+logger.info("DB Connection Established Successfully!")
 
 })
 

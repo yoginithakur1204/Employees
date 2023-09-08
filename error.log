@@ -1,0 +1,9 @@
+error: Invalid or missing parameters {"timestamp":"2023-09-08T06:53:38.138Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T06:58:29.107Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T07:10:38.374Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid or missing parameters","timestamp":"2023-09-08T07:21:00.712Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mInvalid or missing parameters\u001b[39m","timestamp":"2023-09-08T07:53:58.951Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mInvalid or missing parameters\u001b[39m","timestamp":"2023-09-08T08:08:03.052Z"}
+{"level":"error","message":"Invalid or missing parameters","timestamp":"2023-09-08T08:12:22.285Z"}
+{"level":"error","message":"Invalid or missing parameters","timestamp":"2023-09-08T08:31:34.924Z"}
+{"level":"error","message":"Invalid or missing parameters","timestamp":"2023-09-08T08:33:55.544Z"}
