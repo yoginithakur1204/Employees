@@ -1,8 +1,10 @@
-const db = require('../models/index');
 import express, { json } from 'express';
 // import getAllEmployees from '../routers/employee_data'
 // import getEmployeeById from '../routers/employee_data'
 // import createEmployee from '../routers/employee_data'
+
+const db = require('../models/index');
+
 
 import EmployeeData from '../routers/employee_data'
  const app = express();
